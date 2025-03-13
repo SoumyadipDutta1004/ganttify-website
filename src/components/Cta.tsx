@@ -5,8 +5,8 @@
 export default function Cta() {
 
   return (
-    <section className="w-full h-[70vh] bg-black rounded-3xl mt-4 overflow-hidden flex flex-col items-center relative">
-      <div className="max-w-[40%] h-fit flex flex-col items-center justify-center mt-20 text-white text-center">
+    <section className="w-full lg:h-[70vh] bg-black rounded-3xl mt-4 max-lg:pb-20 overflow-hidden flex flex-col items-center relative">
+      <div className="max-lg:px-10 lg:max-w-[40%] h-fit flex flex-col items-center justify-center mt-20 text-white text-center">
 
         <h1 className={` text-3xl sm:text-5xl lg:text-6xl font-semibold tracking-tighter mt-3 sm:mt-6 leading-snug`}>
           A Better Way to Work Today, Together
