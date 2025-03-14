@@ -29,7 +29,7 @@ export default function Navbar() {
     }, '-=0.5')
     navTl.to('.link', {
       opacity: 1,
-      stagger: 0.1
+      stagger: 0.2
     }, '-=0.90')
 
   }, []);

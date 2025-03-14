@@ -19,7 +19,7 @@ export default function WhyGanttify() {
         logo={<LuCodesandbox />}
         title="Why Ganttify"
         heading="Increase Productivity and Save Time"
-        headingWidth="w-[40%]"
+        headingStyle="xl:w-[50%]"
         message="Supercharge productivity. Streamline work by doing it, and seeing it, in one place"
       />
 
